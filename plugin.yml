@@ -1,0 +1,17 @@
+---
+name: SellExpUI
+api: 5.0.0
+version: 0.0.2
+main: SellExpUI\KienMC\Main
+author:
+- Kiên MC
+description: Plugin SellExpUI Code By Kiên MC
+commands:
+   sellexpui:
+      description: "Open Menu Sell Exp"
+      permission: sellexpui.cmd
+      aliases: ["sellexp"]
+permissions:
+   sellexpui.cmd:
+      default: true
+...
