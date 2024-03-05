@@ -1,0 +1,6 @@
+economy:
+  provider: economyapi
+#Get Type Of The Economy
+
+price-sell: 10000
+#Get Price
