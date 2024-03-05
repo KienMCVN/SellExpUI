@@ -3,7 +3,7 @@ build-by-default: true
 branches:
 - main
 projects:
-  SellExpUI-V0.0.2:
+  SellExpUI:
     path: ""
     libs:
     - src: DaPigGuy/libPiggyEconomy/libPiggyEconomy 
