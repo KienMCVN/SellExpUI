@@ -1,2 +1,2 @@
-# SellExpUI-V0.0.2
+# SellExpUI
 Plugin SellExpUI For Pocketmine-MP 5
