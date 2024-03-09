@@ -5,7 +5,7 @@ version: 0.0.2
 main: SellExpUI\KienMC\Main
 author:
 - KienDev
-description: Plugin SellExpUI Code By Kiên MC
+description: Plugin SellExpUI Code By KienDev
 commands:
    sellexpui:
       description: "Open Menu Sell Exp"
