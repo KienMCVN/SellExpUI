@@ -5,6 +5,7 @@ branches:
 projects:
   SellExpUI:
     path: ""
+    icon: sell.png
     libs:
     - src: DaPigGuy/libPiggyEconomy/libPiggyEconomy 
       version: ^3.0.2
